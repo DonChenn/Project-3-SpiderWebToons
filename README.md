@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Web Toons** app:
 
-<img src='https://imgur.com/a/VvnX60W.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://github.com/DonChenn/Project-3-SpiderWebToons/blob/master/WebToon.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
