@@ -46,7 +46,7 @@ I have chosen to duplicate the following layout from the **Web Toons** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/anxqzR1.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/DonChenn/Project-3-SpiderWebToons/blob/master/WebToonDup.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGIF**
 
